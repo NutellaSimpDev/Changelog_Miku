@@ -1,0 +1,39 @@
+Device: Redmi Note 10 pro
+Device Codename : sweet, sweetin
+Device maintainer: NutellaDev
+==================================
+==================================
+DATE - 12/08/2023
+==================================
+-Vantom 4.14.320 updated.
+-Spatial audio added from cheetah-TQ3A.230605.012.
+-Fixed dolby mediacodecs support (Apple Music)
+-Fixed the Screen Lag during Screen Recording.
+-SurfaceFlinger offsets from taro.
+-Fling props added.
+-Fix FP ripple animation lag.
+-Improved tactile sensitivity response.
+-Improvements for smoother scrolling and better responsiveness.
+-HBM added.
+-DC dimming added.
+-Fix lag while app opening and Qs lags.
+==================================
+DATE - 22/07/2023
+==================================
+-Vanilla Build.
+-Vantom 4.14.318 updated.
+-Non Erofs build.
+-Dolby OnePlus 9R updated
+-Improve fingerprint HAL logic.
+-MiuiCam Dropped.
+==================================
+DATE - 23/06/2023
+==================================
+-Vanilla build.
+-Miui Camera is default.
+-June QPR3 security patch
+-Dolby Atmos included.
+-CTS passes by default
+-Vantom kernel is default.
+-No need any firmware.
+-Sometimes miuicam crashes when take 64mp and 108mp.
